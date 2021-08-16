@@ -1,5 +1,5 @@
 import unittest
-from mlproject.distance import haversine
+from superawesomepackage.distance import haversine
 
 class TestDistanceMethods(unittest.TestCase):
 
