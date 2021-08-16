@@ -13,5 +13,5 @@ setup(name='superawesomepackage',
       test_suite='tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/superawesomepackage-run'],
+      scripts=['scripts/superawesomepackage-run', 'scripts/superawesomepackage-spam'],
       zip_safe=False)
